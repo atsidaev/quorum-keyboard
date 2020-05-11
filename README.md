@@ -13,7 +13,14 @@ PLS pins.
 
 ## Explanation and soldering video
 
-https://www.youtube.com/watch?v=iXpktqWTcs8
+[![Youtube link](https://github.com/atsidaev/quorum-keyboard/wiki/img/yt.jpg)](https://www.youtube.com/watch?v=iXpktqWTcs8)
+
+## Photos
+![](https://github.com/atsidaev/quorum-keyboard/wiki/img/img0.jpg)  
+![](https://github.com/atsidaev/quorum-keyboard/wiki/img/img0a.jpg)  
+![](https://github.com/atsidaev/quorum-keyboard/wiki/img/img1.JPG)  
+![](https://github.com/atsidaev/quorum-keyboard/wiki/img/img2.jpg)  
+![](https://github.com/atsidaev/quorum-keyboard/wiki/img/img3.jpg)  
 
 ## Gerbers
 
